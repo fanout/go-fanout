@@ -1,0 +1,15 @@
+{
+	"ImportPath": "github.com/fanout/go-fanout",
+	"GoVersion": "go1.4",
+	"Deps": [
+		{
+			"ImportPath": "github.com/dgrijalva/jwt-go",
+			"Comment": "v2.2.0-15-g61124b6",
+			"Rev": "61124b62ad244d655f87d944aefaa2ae5a0d2f16"
+		},
+		{
+			"ImportPath": "github.com/fanout/go-pubcontrol",
+			"Rev": "562b22a37e593c4c03852a0370c18238b1d1e29e"
+		}
+	]
+}
