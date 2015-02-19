@@ -9,8 +9,8 @@
 		},
 		{
 			"ImportPath": "github.com/fanout/go-pubcontrol",
-			"Comment": "1.0.0",
-			"Rev": "562b22a37e593c4c03852a0370c18238b1d1e29e"
+			"Comment": "1.0.1",
+			"Rev": "101435bad76b5dc5fd972d4744832625f4f32302"
 		}
 	]
 }

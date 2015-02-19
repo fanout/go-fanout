@@ -11,10 +11,10 @@ type JsonObjectFormat struct {
     value string
 }
 
-func (format JsonObjectFormat) Name() string {
+func (format *JsonObjectFormat) Name() string {
     return "json-object"
 }
 
-func (format JsonObjectFormat) Export() interface{} {
+func (format *JsonObjectFormat) Export() interface{} {
     return format.value
 }
