@@ -9,8 +9,12 @@
 		},
 		{
 			"ImportPath": "github.com/fanout/go-pubcontrol",
-			"Comment": "1.0.1",
-			"Rev": "101435bad76b5dc5fd972d4744832625f4f32302"
+			"Comment": "1.0.2",
+			"Rev": "37d5e09163ceb5ff833f2101687a259fca223c81"
+		},
+		{
+			"ImportPath": "github.com/stretchr/testify/assert",
+			"Rev": "e4ec8152c15fc46bd5056ce65997a07c7d415325"
 		}
 	]
 }
